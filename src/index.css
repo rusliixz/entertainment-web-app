@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 300;
+}
+
+html::-webkit-scrollbar {
+  width: 16px;
+  height: 16px;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: rgba(210, 27, 27, 0.700);
+  border-radius: 8px;
+  box-shadow: inset 2px 2px 2px hsla(0, 0%, 100%, .25), inset -2px -2px 2px rgba(0, 0, 0, .50);
+}
+
+::-webkit-scrollbar-track {
+  background: #10141E;
+  border-left: 1px solid rgba(255, 255, 255, 0.25);
+}
