@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/entertainment-web-app/static/css/main.f687e0e7.css",
+    "main.js": "/entertainment-web-app/static/js/main.75fa1993.js",
+    "index.html": "/entertainment-web-app/index.html",
+    "static/media/icon-category-movie.svg": "/entertainment-web-app/static/media/icon-category-movie.86c00936a88a3105d0af3bd15f6f7b40.svg",
+    "static/media/icon-nav-bookmark.svg": "/entertainment-web-app/static/media/icon-nav-bookmark.cd82c6a5b9601c94178e4ea825a4ce93.svg",
+    "static/media/icon-nav-movies.svg": "/entertainment-web-app/static/media/icon-nav-movies.9885d4e0d728fa0a2c81f8121ee4a8c8.svg",
+    "static/media/icon-nav-home.svg": "/entertainment-web-app/static/media/icon-nav-home.d3b9ae014fdac01876f9302def1e4ac2.svg",
+    "static/media/icon-bookmark-full.svg": "/entertainment-web-app/static/media/icon-bookmark-full.f3e9efb0b6dfc785b5d2da3121788a6c.svg",
+    "static/media/logo.svg": "/entertainment-web-app/static/media/logo.524e34ee1f0ad7793819c92833adcfb1.svg",
+    "static/media/icon-category-tv.svg": "/entertainment-web-app/static/media/icon-category-tv.75c9208553d35303e2f1b61b511ab387.svg",
+    "static/media/icon-nav-tv-series.svg": "/entertainment-web-app/static/media/icon-nav-tv-series.3c0d1077cec574d6642f9923157d0c28.svg",
+    "static/media/icon-play.svg": "/entertainment-web-app/static/media/icon-play.8371f8d28787ad27a68ec37af3a6c7b0.svg",
+    "static/media/icon-bookmark-empty.svg": "/entertainment-web-app/static/media/icon-bookmark-empty.b9e7fe7cad18be4d4b5f1e9e41d62209.svg",
+    "main.f687e0e7.css.map": "/entertainment-web-app/static/css/main.f687e0e7.css.map",
+    "main.75fa1993.js.map": "/entertainment-web-app/static/js/main.75fa1993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f687e0e7.css",
+    "static/js/main.75fa1993.js"
+  ]
+}
